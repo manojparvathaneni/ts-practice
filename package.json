@@ -1,0 +1,12 @@
+{
+  "name": "ts-practice",
+  "private": true,
+  "type": "module",
+  "description": "Course exercises, book exercises and experiments while learning TypeScript",
+  "scripts": {
+    "check": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
